@@ -3,7 +3,7 @@
 Welcome to my repository documenting activities as part of the Microsoft Copilot Student Ambassador program.
 
 ## About Me
-I am Prosper Atiyire, a Biotechnology & Molecular Biology student at UDS (Navrongo campus), passionate about integrating AI tools into biological research and student learning.
+I am Prosper Atiyire Wemo-atu, a Biotechnology & Molecular Biology student at UDS (Nykanpala campus), passionate about integrating AI tools into biological research and student learning.
 
 ## Contributor ID
 ?wt.mc_id=studentamb_547206
